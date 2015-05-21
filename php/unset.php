@@ -20,3 +20,5 @@ echo "$bar\n";
 
 foo($bar);
 echo "$bar\n";
+//out put something something
+
